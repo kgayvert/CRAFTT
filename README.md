@@ -17,4 +17,4 @@
 ###########################################
 - Note: to run from command line, the geneset and GSEA program must be located in the current directory or the script must be updated to set the correct directories
 
-R --vanilla sample_prediction_step.R /path/to/drug/pertubation/file
+Rscript sample_prediction_step.R /path/to/drug/pertubation/file
